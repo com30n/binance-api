@@ -7,6 +7,9 @@ authors = ["evgeniyshubin-zh <evgeniy.shubin.android@gmail.com>"]
 [tool.poetry.dependencies]
 python = "^3.8"
 prometheus-client = "^0.14.1"
+requests = "^2.28.1"
+black = "^22.6.0"
+isort = "^5.10.1"
 
 [tool.poetry.dev-dependencies]
 
