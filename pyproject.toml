@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "binance-api"
+version = "0.1.0"
+description = ""
+authors = ["evgeniyshubin-zh <evgeniy.shubin.android@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+prometheus-client = "^0.14.1"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
